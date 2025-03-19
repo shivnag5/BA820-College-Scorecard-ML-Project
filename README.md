@@ -14,6 +14,7 @@ Assess the value across higher education institutions to inform students and sch
 In this project, the team aims to address this challenge by applying unsupervised learning methods like K-Means and Hierarchical Clustering, intending to uncover hidden patterns within the data to help students, policymakers, and institutions make more informed decisions. Unsupervised learning will also help reduce the complexity of the high-dimensional dataset, allowing the team to focus on the most informative variables needed to answer the highest-priority research questions. By leveraging these machine learning methodologies, the team intends to bridge the gap between the financial investment in higher education and the subsequent career success of students, empowering them with in-depth insights to make informed decisions about their future.
 
 Contributers:
-- BrendanWilcox
-- VictoriaCar
-- Jacob-Rose-BU
+- Shiv Nag (shivnag5)
+- Brendan Wilcox (BrendanWilcox)
+- Victoria Carlsten (VictoriaCar)
+- Jacob Rose (Jacob-Rose-BU)
